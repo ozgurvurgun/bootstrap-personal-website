@@ -50,6 +50,9 @@
                         </ul>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="blog.php">Blog</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="contact.php">İletişim</a>
                     </li>
                     <li class="nav-item me-2">
@@ -88,7 +91,7 @@
 
 
                     <!--  <h3 class="p-3"> Vizyonum</h3>
-                    Vizyonum, ülkemi bilim ve bilişim sektöründe akla ilk gelen trend isim haline getirmek. Mustafa Kemal'in "Yurtta Sulh Cihan'da Sulh" Sözünü temel alarak yeni yetişen neslimizi evrensel, bilgi ve görgü sahibi, öncelikle ülkemize sonra Dünya'mıza faydalı kişilikler olmasını sağlamak.</p>
+                    Vizyonum, ülkemi bilim ve bilişim sektöründe akla ilk gelen trend isim haline getirmek. Gazi Mustafa Kemal'in "Yurtta Sulh Cihan'da Sulh" Sözünü temel alarak yeni yetişen neslimizi evrensel, bilgi ve görgü sahibi, öncelikle ülkemize sonra Dünya'mıza faydalı kişilikler olmasını sağlamak.</p>
                 </div> -->
                 </div>
             </div>

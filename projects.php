@@ -50,6 +50,9 @@
                         </ul>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="blog.php">Blog</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="contact.php">İletişim</a>
                     </li>
                     <li class="nav-item me-2">
@@ -142,7 +145,7 @@
                                 <div class="spinner-line"></div>
                                 <div class="spinner-line"></div>
                                 <div class="spinner-circle">
-                                 &#9679;
+                                    &#9679;
                                 </div>
 
                             </div>

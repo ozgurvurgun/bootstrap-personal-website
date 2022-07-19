@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
   <link rel="icon" href="image/icon.png" type="image/x-icon">
   <meta name="description" content="Özgür Vurgun' un kişisel web sitesi." />
@@ -19,6 +20,7 @@
   <script src="https://kit.fontawesome.com/eb7367d676.js" crossorigin="anonymous"></script>
   <title>Özgür Vurgun</title>
 </head>
+
 <body style="font-family:  'Raleway', sans-serif;padding-top:55px">
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
@@ -46,6 +48,9 @@
               <li><a class="dropdown-item" href="projects.php">Punch Engine (Yumruk Motoru)</a></li>
               <li><a class="dropdown-item disabled" href="#">Kuantum Sensörler</a></li>
             </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="blog.php">Blog</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">İletişim</a>
@@ -184,4 +189,5 @@
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </body>
+
 </html>

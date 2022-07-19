@@ -59,6 +59,9 @@ if (isset($_SESSION['rand'])) {
                         </ul>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="blog.php">Blog</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link active" href="contact.php">İletişim</a>
                     </li>
                     <li class="nav-item me-2">
